@@ -4,7 +4,7 @@ Information
 
 This is the _**Neoforged**_ version of this mod. Sowing Knits is an outfit creation mod with as much freedom as we can provide.
 Craft Outfits that don't provide any bonuses without crafting the provided Token that is used to "Enchant" the armor.
-The design is all up to you and if there is anything more on which you would like to see go [_**here**_](https://github.com/MarsMyth/SowingKnits/pulls)
+The design is all up to you and if there is anything more on which you would like to see go [_**here**_](https://github.com/MarsMyth/SowingKnits-Neoforged/pulls)
 with the "wanted feature" label and we might add it in going forward with future updates.
 
 Supported Versions:
