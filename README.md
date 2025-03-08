@@ -33,6 +33,6 @@ Additional Resources:
         <a><img
         src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/forge_64h.png"
         alt="Will Not Support Forge"
-        width="140"
+        width="152"
     ></a>
 </h4>
