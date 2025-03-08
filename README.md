@@ -17,4 +17,9 @@ Additional Resources:
         alt="Available on Modrinth"
         width="140"
     ></a>
+        <a><img
+        src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/forge_64h.png"
+        alt="Will Not Support Forge"
+        width="140"
+    ></a>
 </h4>
